@@ -1,2 +1,2 @@
-# unity-cookbook-2018-ch14-03-nearest-spawnpoint
-chapter 14 - example 3 - choose nearest spawnpoint
+# unity-cookbook-2018-ch14-04-nearest-spawnpoint
+chapter 14 - example 4 - choose nearest spawnpoint
